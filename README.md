@@ -1,7 +1,7 @@
 CAT [![Build Status](https://travis-ci.org/dianping/cat.png?branch=master)](https://travis-ci.org/dianping/cat)
 ===
 ##### CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控。[2013-01-06] 
-
+啊哈哈哈哈哈
 ##### CAT支持的监控消息类型包括：
 +  **Transaction**	  适合记录跨越系统边界的程序访问行为,比如远程调用，数据库调用，也适合执行时间较长的业务逻辑监控，Transaction用来记录一段代码的执行时间和次数。
 +  **Event**	   用来记录一件事发生的次数，比如记录系统异常，它和transaction相比缺少了时间的统计，开销比transaction要小。
